@@ -15,13 +15,6 @@ Telegram бот для гарантирования сделок между по
 - Python 3.12+
 - Telegram бот токен
 
-## Установка
-
-```bash
-cd /home/kn1ver/Documents/Code/Flux-Bot
-source .venv/bin/activate
-```
-
 ## Настройка
 
 Отредактируйте файл `.env`:
